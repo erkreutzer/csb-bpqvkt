@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://erkreutzer.github.io/csb-bpqvkt/static/css/main.1455e570.chunk.css",
+    "main.js": "https://erkreutzer.github.io/csb-bpqvkt/static/js/main.9e6db813.chunk.js",
+    "main.js.map": "https://erkreutzer.github.io/csb-bpqvkt/static/js/main.9e6db813.chunk.js.map",
+    "runtime-main.js": "https://erkreutzer.github.io/csb-bpqvkt/static/js/runtime-main.96b24f84.js",
+    "runtime-main.js.map": "https://erkreutzer.github.io/csb-bpqvkt/static/js/runtime-main.96b24f84.js.map",
+    "static/js/2.246fb6fb.chunk.js": "https://erkreutzer.github.io/csb-bpqvkt/static/js/2.246fb6fb.chunk.js",
+    "static/js/2.246fb6fb.chunk.js.map": "https://erkreutzer.github.io/csb-bpqvkt/static/js/2.246fb6fb.chunk.js.map",
+    "index.html": "https://erkreutzer.github.io/csb-bpqvkt/index.html",
+    "static/css/main.1455e570.chunk.css.map": "https://erkreutzer.github.io/csb-bpqvkt/static/css/main.1455e570.chunk.css.map",
+    "static/js/2.246fb6fb.chunk.js.LICENSE.txt": "https://erkreutzer.github.io/csb-bpqvkt/static/js/2.246fb6fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96b24f84.js",
+    "static/js/2.246fb6fb.chunk.js",
+    "static/css/main.1455e570.chunk.css",
+    "static/js/main.9e6db813.chunk.js"
+  ]
+}
